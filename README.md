@@ -2,7 +2,7 @@
 
 ## Notas
 
-Las calificaciones se publican [aquí](por completar).
+Las calificaciones se publican [aqui](por completar).
 
 ## Equipo
 
