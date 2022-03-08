@@ -2,7 +2,7 @@
 
 ## Notas
 
-Las calificaciones se publican [por completar]).
+Las calificaciones se publican [aquí](por completar).
 
 ## Equipo
 
@@ -16,6 +16,11 @@ Juan Reutter        |  jreutter@ing.puc.cl
 
 Nombre             | Email
 -----------------  | ----------------
+Diego Emilio Bustamante | diegobustama@uc.cl
+Jadrina de Andrade| jadrinadeandrade@uc.cl
+Carlos Paredes | cparedesr@uc.cl
+Fernando Quintana | fjquintana@uc.cl
+Ignacio Urrutia | ignacio.urrutia@uc.cl
 
 
 ## Foro
