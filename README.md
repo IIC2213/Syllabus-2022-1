@@ -2,7 +2,7 @@
 
 ## Notas
 
-Las calificaciones se publican [aqui](por completar).
+Las calificaciones se publican [aqui](http://www.pendiente.cl).
 
 ## Equipo
 
