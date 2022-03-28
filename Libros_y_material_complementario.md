@@ -1,6 +1,6 @@
 ## Lista de libros que les pueden servir. 
 
-- El libro del curso (versión primera década 2000) de [Leopoldo Bertosi](Logica-Bertossi.pdf), hoy profesor en la UAI.
+- El libro del curso (versión primera década 2000) de [Leopoldo Bertosi](Logica-Bertossi.pdf), hoy profesor en la UAI. Tienen permiso para usar el pdf en este curso, pero si lo van a seguir usando deben comprarlo, en la tienda de ediciones UC, o bien escribirle a Leopoldo. 
 
 *Un poco mejores para la parte de lógica*:
 - A mathematical Introduction to logic, de Herbert Enderton.
