@@ -1,3 +1,4 @@
+Video de clases [aqui](https://drive.google.com/file/d/1O-7xoTtsDJRGRslXf2TaAmm7Cb46ilNa/view?usp=sharing)
 Video de reducción desde 3-CNF-SAT a 3-colorabilidad en [dropbox](https://drive.google.com/file/d/1LjNLJgcSKEmJCpKYgQ_OWh1YTjrgI2LO/view?usp=sharing), acá la [pizarra](https://drive.google.com/file/d/15QzT763yBXJ6zaRs8VUsx_FxZ5gtHMob/view?usp=sharing).
 
 Video 2021 [aqui](https://drive.google.com/file/d/1cYc7SnfUr7UENRE8rUf0CN35_sqO25Xa/view?usp=sharing). 
